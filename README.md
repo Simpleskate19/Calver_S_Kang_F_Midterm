@@ -4,7 +4,7 @@ A debate on the big Video Game called Fortnite. You can visit [Fortnite website]
 ##Requirements
 Use a modern browser (if you don't have one, use Internet Explorer to download something that actually works)
 
-You'll need git installed locally, as well as a preprocessor like SASS for CSS compilation. A good cute editor helps too!
+You'll need git installed locally, as well as a preprocessor like [SASS](https://sass-lang.com) for CSS compilation. A good cute editor helps too!
 
 Built with: HTML CSS JavaScript
 
